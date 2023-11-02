@@ -2,8 +2,6 @@
 
 
   <img src="https://github.com/sanskargouchandra/Car-Shastra/assets/117097248/90c29fc8-e1cc-4f0d-8ebe-7aca3a5c543a" width='400' alt="logo" />
-  
-  ![CarShastra]()
 
   # Car-Shastra with NEXT.JS!
   
@@ -31,6 +29,7 @@ Car-Shastra🚘 is Car Rental App using the latest web technologies! In this ste
     <a href="https://github.com/sanskargouchandra/Car-Shastra/issues">Request Feature</a>
   </h4>
 
+</div>
   <!-- About the Project -->
 
 ## :star2: About the Project
@@ -43,8 +42,6 @@ Car-Shastra🚘 is Car Rental App using the latest web technologies! In this ste
 
 
 https://github.com/sanskargouchandra/Car-Shastra/assets/117097248/0a612593-9f4c-4742-86ca-39c28c4da515
-
-
 
 </div>
 
