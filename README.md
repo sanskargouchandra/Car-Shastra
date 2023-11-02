@@ -80,9 +80,6 @@ Car-Shastra app using Next.js, React, Tailwind CSS, GraphQL, HyGraph, and TypeSc
 
 - Create HyGraph account <a href='https://hygraph.com/'>HERE</a>
 </br>
-Than got to Amazon-Webscraper and Copy API key and paste it on .env file.
-for Refrence `.env.example` file is on Repo.
-</br>
 Follow these steps to install and run the project:
 
 1. **Clone the repository**
@@ -90,7 +87,7 @@ Follow these steps to install and run the project:
    Open your terminal and run the following command to clone the repository:
 
    ```bash
-   git clone https://github.com/sanskargouchandra/Chat-Shastra.git
+   https://github.com/sanskargouchandra/Car-Shastra.git
    ```
 
 2. **Navigate to the project directory**
