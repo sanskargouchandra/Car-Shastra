@@ -44,9 +44,11 @@ Car-Shastra🚘 is Car Rental App using the latest web technologies! In this ste
 https://github.com/sanskargouchandra/Car-Shastra/assets/117097248/0a612593-9f4c-4742-86ca-39c28c4da515
 
 </div>
+## <a href="https://car-shastra.vercel.app/" target="_blank">LIVE DEMO 💥</a>
 
-<br />
-## <a href="https://amazon-sclone.vercel.app" target="_blank">LIVE DEMO 💥</a>
+![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
+![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
+![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)
 <br/>
 
 ## :star2: Overview
@@ -68,7 +70,7 @@ Car-Shastra app using Next.js, React, Tailwind CSS, GraphQL, HyGraph, and TypeSc
 -Transparent Pricing: CarRental displays the price per kilometer for each vehicle, ensuring users have a clear understanding of the cost structure.
 
 -Effortless Booking Process: Users can book their chosen car by providing pickup and drop-off locations, streamlining the booking process.
-- 
+
 # :gear: Installation
 
 
@@ -76,7 +78,8 @@ Car-Shastra app using Next.js, React, Tailwind CSS, GraphQL, HyGraph, and TypeSc
 
 ### :bangbang: Prerequisites
 
-- Create HyGraph account <a href='https://brightdata.com/'>HERE</a>
+- Create HyGraph account <a href='https://hygraph.com/'>HERE</a>
+</br>
 Than got to Amazon-Webscraper and Copy API key and paste it on .env file.
 for Refrence `.env.example` file is on Repo.
 </br>
